@@ -1,6 +1,9 @@
 # tasks-in-C-
 analysis of the simplest tasks in C ++
 
+код находиться в папке Project 3/ Task.cpp
+
+
 
 Тема: ЦИКЛЫ
 
